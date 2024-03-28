@@ -1,0 +1,33 @@
+h1{
+    color: whitesmoke;
+}
+body{
+    background-color: black;
+}
+.piccardctn{
+    text-align: center;
+    color: azure;
+    /* background-color: black; */
+}
+.piccard{
+    text-align: center;
+    /* background-color: black; */
+    width:80%;
+    border: 1px solid;
+    margin: 0 auto;
+}
+img{
+    width: 100%;
+}
+.picbord{
+    border: 2px solid gray ;
+   max-width: 500px;
+    margin: 0 auto;
+}
+.picardctn{
+    font-size: larger;
+}
+p{
+    font-size: large;
+    font-variant: normal;
+}
